@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.duanhong169:drawabletoolbox:1.0.7@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/drawabletoolbox-1.0.7.aar/b79b94a94fc13645b32c41d800caf550/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/drawabletoolbox-1.0.7.aar/b79b94a94fc13645b32c41d800caf550/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.duanhong169/drawabletoolbox/1.0.7/dd9dcd3ab37d7fe10c61ca28f406982a0f104d14/drawabletoolbox-1.0.7-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

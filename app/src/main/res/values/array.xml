@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="type">
+        <item>Select</item>
+        <item>Sensor</item>
+        <item>Electric Point</item>
+        <!--<item>Fan</item>-->
+        <!--<item>Tube Light</item>-->
+        <!--<item>Bulb</item>-->
+        <!--<item>Fridge</item>-->
+        <!--<item>Geyser</item>-->
+        <!--<item>TV</item>-->
+        <!--<item>DVD</item>-->
+        <!--<item>Home Theater</item>-->
+    </string-array>
+
+    <string-array name="icon">
+        <item>Select</item>
+        <item>Camera Logo</item>
+        <item>Spanner Logo</item>
+    </string-array>
+
+    <string-array name="logo_location">
+        <item/>
+        <item>ic_menu_camera</item>
+        <item>ic_menu_manage</item>
+    </string-array>
+</resources>

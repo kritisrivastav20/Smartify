@@ -1,0 +1,29 @@
+apply plugin: 'com.android.library'
+
+android {
+    compileSdkVersion 27
+    buildToolsVersion '28.0.3'
+
+    defaultConfig {
+        minSdkVersion 14
+        targetSdkVersion 23
+        versionCode Integer.parseInt(project.VERSION_CODE)
+        versionName project.VERSION_NAME
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            debuggable false
+        }
+
+        debug {
+            minifyEnabled false
+            debuggable true
+        }
+    }
+}
+
+dependencies {
+    implementation fileTree(include: ['*.jar'], dir: 'libs')
+}
+

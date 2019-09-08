@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="https">https://</string>
+    <string name="http">http://</string>
+    <string name="server_address">papa.fit/rewamp/controllers/</string>
+    <string name="connection">Connection</string>
+    <string name="content_type">Content-Type</string>
+    <string name="device">Device</string>
+    <string name="keep_alive">Keep-Alive</string>
+    <string name="application_json">application/json</string>
+    <string name="form_data">multipart/form-data</string>
+    <string name="post">POST</string>
+    <string name="uid">UID</string>
+    <string name="img_thumbnail_url">http://papa.fit:8081/contact/image/thumbnail/select/</string>
+    <string name="img_original_url">http://papa.fit:8081/contact/image/original/select/</string>
+    <string name="img_medium_url">http://papa.fit:8081/contact/image/medium/select/</string>
+    <string name="inst_thumbnail_url">http://papa.fit:8081/institute/image/thumbnail/select/</string>
+    <string name="inst_medium_url">http://papa.fit:8081/institute/image/medium/select/</string>
+    <string name="inst_original_url">http://papa.fit:8081/institute/image/original/select/</string>
+</resources>
